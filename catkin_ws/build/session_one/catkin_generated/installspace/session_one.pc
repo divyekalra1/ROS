@@ -1,0 +1,8 @@
+prefix=/home/divye_kalra/catkin_ws/install
+
+Name: session_one
+Description: Description of session_one
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: rospy message_runtime rospy
